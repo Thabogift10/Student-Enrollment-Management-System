@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItnRfBVBri5vWKErf4ncIP8rkQ9RaK+t+K0t//eBfcklSankJEb43/ZkJKQOK4lrJflk8toNj+F4UF/xeEno6w==",
+  "success": true,
+  "projectFilePath": "/home/thabo-lubhele/Desktop/Student_management_system/StudentManagementSystem/src/Services/Grades.Service/Grades.Service.csproj",
+  "expectedPackageFiles": [
+    "/home/thabo-lubhele/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/thabo-lubhele/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/thabo-lubhele/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/thabo-lubhele/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/thabo-lubhele/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/thabo-lubhele/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
